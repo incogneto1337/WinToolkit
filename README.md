@@ -2,7 +2,7 @@
 
 ## Overview
 
-This tool provides a comprehensive suite of functionalities for extracting various types of information from a mounted Windows partition. It supports operations such as mounting partitions, extracting user information, dumping passwords, retrieving browser data, and more. **The tool is designed for use in a Linux environment where Windows partitions are accessible.**
+This tool provides a comprehensive suite of functionalities for extracting various types of information from a mounted Windows partition. It supports operations such as mounting partitions, extracting user information, dumping passwords, retrieving browser data, and more. # The tool is designed for use in a Linux environment where Windows partitions are accessible.
 
 ## Features
 
