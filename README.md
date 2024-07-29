@@ -1,8 +1,8 @@
-# WindowsToolkit
+# WindowsExtractionToolkit
 
 ## Overview
 
-This tool provides a comprehensive suite of functionalities for extracting various types of information from a mounted Windows partition. It supports operations such as mounting partitions, extracting user information, dumping passwords, retrieving browser data, and more. The tool is designed for use in a Linux environment where Windows partitions are accessible.
+This tool provides a comprehensive suite of functionalities for extracting various types of information from a mounted Windows partition. It supports operations such as mounting partitions, extracting user information, dumping passwords, retrieving browser data, and more. **The tool is designed for use in a Linux environment where Windows partitions are accessible.**
 
 ## Features
 
@@ -86,5 +86,3 @@ This tool provides a comprehensive suite of functionalities for extracting vario
 This tool is provided for educational and research purposes only. Use responsibly and in accordance with the law.
 
 ---
-
-Feel free to modify or expand this README as needed!
